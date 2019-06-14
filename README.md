@@ -16,4 +16,4 @@ $ pip install requests
 
 $ pip install bs4
 
-$ python brute.py
+$ python Brute.py
